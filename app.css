@@ -9,7 +9,9 @@ body {
 
 	
 }
-
+img {
+	margin:0 auto;
+}
 .description {
 	margin-top:50px;
 	
